@@ -1,2 +1,2 @@
 # gitworld
-Playing and Practices with Git
+Playing with Git and Github
